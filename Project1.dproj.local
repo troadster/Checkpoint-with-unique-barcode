@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.921,=C:\Users\qwerty\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,=C:\Users\qwerty\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,D:\Программы\КПП\CPP_Func.pas=D:\Программы\КПП\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,D:\Программы\КПП\Unit1.dfm=C:\Users\qwerty\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,D:\Программы\КПП\Project1.dproj=C:\Users\qwerty\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,=D:\Программы\КПП\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,=D:\Программы\КПП\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,D:\Программы\КПП\Unit1.pas=C:\Users\qwerty\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,=C:\Users\qwerty\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\qwerty\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
